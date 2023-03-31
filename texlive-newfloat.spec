@@ -1,6 +1,6 @@
 Name:		texlive-newfloat
 Version:	52906
-Release:	1
+Release:	2
 Summary:	Define new floating environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newfloat
